@@ -14,10 +14,10 @@ export default function App() {
     <div className="container">
       <header className="header">
         <h1>Batgerel</h1>
-        <p className="subtitle">Frontend Developer — React</p>
+        <p className="subtitle">Frontend Developer to be — React</p>
         <div className="meta">
-          <span>Email: batgerel@example.com</span>
-          <span>Phone: +123 456 7890</span>
+          <span>Email: konkuk@example.com</span>
+          <span>Phone: +010 456 7890</span>
           <a href="#" className="link">Portfolio</a>
           <a href="#" className="link">GitHub</a>
         </div>
@@ -25,7 +25,7 @@ export default function App() {
 
       <main>
         <Section title="Summary">
-          <p>Passionate frontend developer with experience building user-focused React applications. Comfortable with component design, state management, and responsive UI.</p>
+          <p>Passionate frontend developer with no experience building user-focused React applications. Comfortable with component design, state management, and responsive UI.</p>
         </Section>
 
         <Section title="Skills">
